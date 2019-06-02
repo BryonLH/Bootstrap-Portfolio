@@ -1,7 +1,11 @@
 body {
-    background-color:red;
+    background-color:#343a40;
 }
 
 .container {
+    background-color:white;
+}
+
+.header {
     background-color:white;
 }
